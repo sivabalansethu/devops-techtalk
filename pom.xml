@@ -111,6 +111,9 @@
           <path>/</path>
         </configuration>
       </plugin>
+      <plugin>
+        test
+      </plugin>
     </plugins>
   </build>
 </project>
